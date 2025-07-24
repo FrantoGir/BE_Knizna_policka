@@ -157,5 +157,4 @@ books.db
 - Dáta sú uložené v súbore `books.db` (SQLite).
 - Obálky kníh sa ukladajú do priečinka `covers/`.
 - API automaticky generuje OpenAPI dokumentáciu.
-```
-
+  
