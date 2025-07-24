@@ -159,4 +159,3 @@ books.db
 - API automaticky generuje OpenAPI dokumentáciu.
 ```
 
-If you want this as a file, just copy and paste over your existing README.md. Let me know if you want any further tweaks or additional formatting!
