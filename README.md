@@ -1,5 +1,7 @@
 Knižná polička – REST API
 
+
+
 Popis
 Toto je jednoduché REST API pre správu knižnice postavené na FastAPI.
 Umožňuje evidenciu kníh, vyhľadávanie, filtrovanie, úpravu, mazanie a nahrávanie obálok kníh.
